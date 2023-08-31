@@ -1,0 +1,14 @@
+.dark {
+    header {
+        background-color: #000;
+        color: white;
+        * {
+            color: inherit !important;
+        }
+
+        .header__btn-1 {
+            background-color: #000;
+            border: 1px solid white;
+        }
+    }
+}

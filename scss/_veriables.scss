@@ -1,8 +1,11 @@
+header {
+    transition: all 0.4s ease-in-out;
+}
+
 .dark {
     header {
         background-color: #000;
         color: white;
-        transition: all 0.4s ease-in-out;
         * {
             color: inherit !important;
         }

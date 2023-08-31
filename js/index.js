@@ -3,6 +3,6 @@ let elBody = document.querySelector('#body')
 
 
 
-dark__mode.addEventListener('click', () => {
+dark__mode.addEventListener('click', function () {
     elBody.classList.toggle('dark')
 })

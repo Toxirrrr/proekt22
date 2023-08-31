@@ -2712,4 +2712,17 @@ template {
   border: none;
   margin-top: 45px;
   margin-right: 730px;
+}
+
+header {
+  position: fixed !important;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 99;
+  background-color: #fff;
+}
+
+body {
+  padding-top: 106.2px;
 }/*# sourceMappingURL=styles.css.map */
